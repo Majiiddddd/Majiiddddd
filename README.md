@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majiiddddd&label=Profile%20views&color=0e75b6&style=flat" alt="majiiddddd" /> </p>
 
-- 🔭 I’m currently working on **weather app**
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **majid.fathi12@gmail.com**
